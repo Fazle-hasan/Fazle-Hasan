@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazle-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="fazle-hasan" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/@fazlehasan9?logo=twitter&style=for-the-badge" alt="@fazlehasan9" /></a> </p>
 
 - 🔭 I’m currently working on **Trading algo**
 
