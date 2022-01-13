@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Stock Market.**
 
-- 📫 How to reach me **inayathasan333@gmail.com**
+- 📫 How to reach me **fazlehasan110@gmail.com**
 
 - ⚡ Fun fact **I don't want to study but oftenly gain Knowledge.**
 
