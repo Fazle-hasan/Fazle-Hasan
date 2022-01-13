@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fazle-hasan](https://github.com/Fazle-hasan)
 
-- 💬 Ask me about **Stock Market.**
+- 💬 Ask me about **Stock Market and Python.**
 
 - 📫 How to reach me **fazlehasan110@gmail.com**
 
