@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazle-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="fazle-hasan" /> </p>
 
 
-- 🔭 I’m currently working on **Trading algo**
+- 🔭 I’m currently working on **Machine learning Based projects**
 
-- 🌱 I’m currently learning **Finance in Technology**
+- 🌱 I’m currently learning **Computer Vision and SQL**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Artificial Intelligence and Researches.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fazle-hasan](https://github.com/Fazle-hasan)
 
-- 💬 Ask me about **Stock Market and Python.**
+- 💬 Ask me about **Python and Algo Bots**
 
 - 📫 How to reach me **fazlehasan110@gmail.com**
 
