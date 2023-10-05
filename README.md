@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Fazle Hasan</h1>
-<h3 align="center">I am pursuing B.Tech. in Artificial Intelligence</h3>
+<h3 align="center">I have completed my B.Tech. in Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazle-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="fazle-hasan" /> </p>
 
 
-- 🔭 I’m currently working on **Machine learning Based projects**
+- 🔭 I’m currently working on **Deep Learning Based projects**
 
-- 🌱 I’m currently learning **Computer Vision and SQL**
+- 🌱 I’m currently learning **Computer Vision, NLP and Generative AI**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Artificial Intelligence and Researches.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fazle-hasan](https://github.com/Fazle-hasan)
 
-- 💬 Ask me about **Python and Algo Bots**
+- 💬 Ask me about **Python, Generative AI and Algorithmic Trading Bots**
 
 - 📫 How to reach me **fazlehasan110@gmail.com**
 
