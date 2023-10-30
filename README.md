@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, Artificial Intelligence and Researches.**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Fazle-hasan](https://fazle-hasan.github.io/)]
+- 👨‍💻 All of my projects are available at [[Projects](https://fazle-hasan.github.io/)]]
 
 - 💬 Ask me about **Python, Generative AI and Algorithmic Trading Bots**
 
