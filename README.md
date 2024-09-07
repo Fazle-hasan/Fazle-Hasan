@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Fazle Hasan</h1>
-<h3 align="center">I have completed my B.Tech. in Artificial Intelligence</h3>
+<h1 align="center">Hii 👋, I'm Fazle Hasan</h1>
+<h3 align="center">Associate Data Scientist at Jio Platforms Limited(JPL)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazle-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="fazle-hasan" /> </p>
 
 
-- 🔭 I’m currently working on **Deep Learning Based projects**
+- 🔭 I’m currently working on **Generative AI, LLMs and Deep Learning Based projects**
 
 - 🌱 I’m currently learning **Computer Vision, NLP and Generative AI**
 
-- 👯 I’m looking to collaborate on **Machine Learning, Artificial Intelligence and Researches.**
+- 👯 I’m looking to collaborate on **Generative AI, Machine Learning, Artificial Intelligence and Researches.**
 
 - 👨‍💻 All of my projects are available at [[Projects](https://fazle-hasan.github.io/)]]
 
-- 💬 Ask me about **Python, Generative AI and Algorithmic Trading Bots**
+- 💬 Ask me about **LLMs, Python, Generative AI and Algorithmic Trading Bots**
 
 - 📫 How to reach me **fazlehasan110@gmail.com**
 
-- ⚡ Fun fact **I don't want to study but oftenly gain Knowledge.**
+- ⚡ Fun fact **I don't want to study but often gain Knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
