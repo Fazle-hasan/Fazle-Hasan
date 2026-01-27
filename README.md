@@ -104,11 +104,9 @@ class FazleHasan:
   
 | Platform | Link |
 |:--------:|:----:|
-| 💼 LinkedIn | [fazle-hasan](https://linkedin.com/in/fazle-hasan-24a9421a4/) |
+| 💼 LinkedIn | [fazlehasan](https://linkedin.com/in/fazle-hasan-24a9421a4/) |
 | 📊 Kaggle | [fazlehasan](https://www.kaggle.com/fazlehasan) |
-| 💻 HackerRank | [fazlehasan110](https://www.hackerrank.com/fazlehasan110) |
-| 📸 Instagram | [fazlehasan110](https://www.instagram.com/fazlehasan110/) |
-| 🌐 Portfolio | [fazlehasan.vercel.app](https://fazlehasan.vercel.app/) |
+| 🌐 Portfolio | [fazlehasan](https://fazlehasan.vercel.app/) |
 
 </div>
 
