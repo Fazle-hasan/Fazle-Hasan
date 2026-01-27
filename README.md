@@ -6,6 +6,8 @@
 
 <p>
   <a href="https://linkedin.com/in/fazle-hasan-24a9421a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/fazlehasan9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.kaggle.com/inyathasan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="mailto:fazlehasan110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://fazlehasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
@@ -82,10 +84,6 @@ class FazleHasan:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fazle-hasan&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fazle-hasan&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
@@ -107,9 +105,12 @@ class FazleHasan:
   
 | Platform | Link |
 |:--------:|:----:|
-| 💼 LinkedIn | [Fazle Hasan LinkedIn](https://www.linkedin.com/in/fazle-hasan/) |
- 🌐 Portfolio | [Fazle Hasan Portfolio](https://fazlehasan.vercel.app/) |
-| 📊 Kaggle | [Fazle Hasan Kaggle](https://www.kaggle.com/fazlehasan) |
+| 💼 LinkedIn | [fazle-hasan](https://linkedin.com/in/fazle-hasan-24a9421a4/) |
+| 🐦 Twitter | [@fazlehasan9](https://twitter.com/fazlehasan9) |
+| 📊 Kaggle | [inyathasan](https://www.kaggle.com/inyathasan) |
+| 💻 HackerRank | [fazlehasan110](https://www.hackerrank.com/fazlehasan110) |
+| 📸 Instagram | [fazlehasan110](https://www.instagram.com/fazlehasan110/) |
+| 🌐 Portfolio | [fazlehasan.vercel.app](https://fazlehasan.vercel.app/) |
 
 </div>
 
