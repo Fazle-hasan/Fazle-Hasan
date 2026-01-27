@@ -1,37 +1,126 @@
-<h1 align="center">Hii 👋, I'm Fazle Hasan</h1>
-<h3 align="center">Associate Data Scientist at Jio Platforms Limited(JPL)</h3>
+<div align="center">
+  
+# Hi there, I'm Fazle Hasan! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazle-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="fazle-hasan" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Associate+Data+Scientist+%40+Jio+Platforms;Generative+AI+%26+LLM+Enthusiast;Deep+Learning+Practitioner;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
-
-- 🔭 I’m currently working on **Generative AI, LLMs and Deep Learning Based projects**
-
-- 🌱 I’m currently learning **Computer Vision, NLP and Generative AI**
-
-- 👯 I’m looking to collaborate on **Generative AI, Machine Learning, Artificial Intelligence and Researches.**
-
-- 👨‍💻 All of my projects are available at [[Projects](https://fazlehasan.vercel.app/)]]
-
-- 💬 Ask me about **LLMs, Python, Generative AI and Algorithmic Trading Bots**
-
-- 📫 How to reach me **fazlehasan110@gmail.com**
-
-- ⚡ Fun fact **I don't want to study but often gain Knowledge.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@fazlehasan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fazlehasan9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fazle-hasan-24a9421a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fazle-hasan-24a9421a4/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/inyathasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/inyathasan" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/fazlehasan110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fazlehasan110/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/fazlehasan110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/fazlehasan110" height="30" width="40" /></a>
+<p>
+  <a href="https://linkedin.com/in/fazle-hasan-24a9421a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/fazlehasan9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.kaggle.com/inyathasan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:fazlehasan110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://fazlehasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=fazle-hasan&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazle-hasan&show_icons=true&locale=en&layout=compact" alt="fazle-hasan" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazle-hasan&show_icons=true&locale=en" alt="fazle-hasan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazle-hasan&" alt="fazle-hasan" /></p>
+## 🚀 About Me
+
+```python
+class FazleHasan:
+    def __init__(self):
+        self.name = "Fazle Hasan"
+        self.role = "Associate Data Scientist"
+        self.company = "Jio Platforms Limited (JPL)"
+        self.location = "India 🇮🇳"
+        self.languages = ["Python", "C", "SQL"]
+        
+    def current_focus(self):
+        return [
+            "🔭 Building with Generative AI & Large Language Models",
+            "🌱 Exploring Computer Vision & NLP",
+            "🤖 Creating Algorithmic Trading Bots",
+            "📚 Researching AI/ML innovations"
+        ]
+    
+    def fun_fact(self):
+        return "I don't want to study, but I often gain knowledge! 📖✨"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Generative AI & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Cloud & Tools
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fazle-hasan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazle-hasan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazle-hasan&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fazle-hasan&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 **Currently Working On:** Generative AI applications, LLM-powered solutions & Deep Learning projects
+- 🌱 **Currently Learning:** Advanced Computer Vision, NLP techniques & Cutting-edge GenAI
+- 👯 **Looking to Collaborate On:** AI/ML research, Open-source projects & Innovative solutions
+- 💬 **Ask Me About:** LLMs, Python, Generative AI, Algorithmic Trading Bots
+- 📫 **Reach Me At:** [fazlehasan110@gmail.com](mailto:fazlehasan110@gmail.com)
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+| Platform | Link |
+|:--------:|:----:|
+| 💼 LinkedIn | [Fazle Hasan LinkedIn](https://www.linkedin.com/in/fazle-hasan/) |
+ 🌐 Portfolio | [Fazle Hasan Portfolio](https://fazlehasan.vercel.app/) |
+| 📊 Kaggle | [Fazle Hasan Kaggle](https://www.kaggle.com/fazlehasan) |
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "I don't want to study, but I often gain knowledge."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
+
+</div>
