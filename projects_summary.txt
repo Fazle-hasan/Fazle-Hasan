@@ -1,0 +1,142 @@
+================================================================
+              FAZLE HASAN - GITHUB PROJECTS SUMMARY
+================================================================
+
+----------------------------------------------------------------
+1. Short_Straddle_BankNifty
+----------------------------------------------------------------
+Introduction   : A trading bot that trades in the stock market.
+                 Retrieves real-time data from Alice Blue brokerage
+                 house via API, applies filtering, and executes
+                 automated trades based on model decisions.
+Technology     : Python, Alice Blue API, Jupyter Notebook
+Main Domain    : Algorithmic Trading / Finance
+
+----------------------------------------------------------------
+2. F-and-O-Prediction-Stock-Market-
+----------------------------------------------------------------
+Introduction   : Models Implied Volatility Surface dynamics using
+                 2.5 years of historical volatility data. Applies
+                 EDA, dimension reduction, and ML techniques to
+                 represent matrix-valued stochastic processes.
+Technology     : Python, Machine Learning, Jupyter Notebook
+Main Domain    : Financial Forecasting / Quantitative Finance
+
+----------------------------------------------------------------
+3. Plant_Disease_Detection_System
+----------------------------------------------------------------
+Introduction   : A research-driven plant disease detection system
+                 using CNNs to classify leaves as healthy or
+                 diseased. Evaluated across 8-10 architectures,
+                 achieving 95.5% accuracy.
+Technology     : Python, CNN, Deep Learning, Jupyter Notebook
+Main Domain    : Computer Vision / Agriculture AI
+
+----------------------------------------------------------------
+4. MindCare-AI
+----------------------------------------------------------------
+Introduction   : A multi-agent mental health support system that
+                 analyzes user conversations across multiple
+                 interactions to assess mental wellbeing and provide
+                 personalized, empathetic AI-driven insights and
+                 actionable steps.
+Technology     : Python, LLMs, Multi-Agent Systems
+Main Domain    : AI / Mental Health Tech
+
+----------------------------------------------------------------
+5. CompanionAI
+----------------------------------------------------------------
+Introduction   : An AI-powered chatbot designed to provide
+                 companionship and emotional support through
+                 lifelike conversations. Uses advanced language
+                 models to adapt to users moods and needs.
+Technology     : Python, LLMs, Jupyter Notebook
+Main Domain    : Conversational AI / Emotional Support
+
+----------------------------------------------------------------
+6. youtube_miner
+----------------------------------------------------------------
+Introduction   : A powerful Python data pipeline for YouTube audio
+                 extraction, Voice Activity Detection (VAD) chunking,
+                 multi-model transcription, and automated comparison
+                 with YouTube captions. 100% open source, no paid APIs.
+Technology     : Python, VAD, ASR / Transcription Models, yt-dlp
+Main Domain    : Audio Processing / NLP / Data Pipeline
+
+----------------------------------------------------------------
+7. Pump_Sensor_Analysis_And_Prediction
+----------------------------------------------------------------
+Introduction   : A complete predictive maintenance pipeline for the
+                 Pump Sensor dataset including EDA, feature selection,
+                 multi-model failure classification, and LSTM-based
+                 temporal sequence modeling.
+Technology     : Python, LSTM, XGBoost, Scikit-learn, Jupyter Notebook
+Main Domain    : Predictive Maintenance / Industrial AI
+
+----------------------------------------------------------------
+8. AsianPaints-Stock-Price-Forecasting-Using-DL
+----------------------------------------------------------------
+Introduction   : Stock price forecasting for Asian Paints using
+                 deep learning models trained on historical data.
+Technology     : Python, Deep Learning, Jupyter Notebook
+Main Domain    : Financial Forecasting / Deep Learning
+
+----------------------------------------------------------------
+9. LLM-Zoomcamp
+----------------------------------------------------------------
+Introduction   : Coursework and project notebooks from the LLM
+                 Zoomcamp program covering large language model
+                 concepts and applications.
+Technology     : Python, LLMs, Jupyter Notebook
+Main Domain    : AI / Large Language Models
+
+----------------------------------------------------------------
+10. Computer-Vision-and-Deep-learning-beginners-tool-kit
+----------------------------------------------------------------
+Introduction   : A beginner-friendly toolkit and resource collection
+                 for getting started with Computer Vision and
+                 Deep Learning.
+Technology     : Python, OpenCV, TensorFlow/Keras, Jupyter Notebook
+Main Domain    : Computer Vision / Deep Learning Education
+
+----------------------------------------------------------------
+11. Sentiment_Analysis_Printer_Reviews
+----------------------------------------------------------------
+Introduction   : Sentiment classification project on printer product
+                 reviews using natural language processing techniques.
+Technology     : Python, NLP, Scikit-learn, Jupyter Notebook
+Main Domain    : NLP / Sentiment Analysis
+
+----------------------------------------------------------------
+12. Object-Measurement-using-OpenCV
+----------------------------------------------------------------
+Introduction   : A tool to measure the dimensions of physical objects
+                 in images using OpenCV-based computer vision.
+Technology     : Python, OpenCV
+Main Domain    : Computer Vision / Image Processing
+
+----------------------------------------------------------------
+13. Text-File-To-Image
+----------------------------------------------------------------
+Introduction   : Converts text content into image files. Built as a
+                 final project for the Google Python Crash Course.
+Technology     : Python, Pillow, Jupyter Notebook
+Main Domain    : Image Processing / Utility Tool
+
+----------------------------------------------------------------
+14. Senior_plate
+----------------------------------------------------------------
+Introduction   : A data science/ML notebook project.
+Technology     : Python, Jupyter Notebook
+Main Domain    : Data Science
+
+----------------------------------------------------------------
+15. Fazle-hasan.github.io
+----------------------------------------------------------------
+Introduction   : Personal portfolio website hosted on GitHub Pages.
+Technology     : HTML, CSS
+Main Domain    : Web Development / Portfolio
+
+================================================================
+                         END OF FILE
+================================================================
