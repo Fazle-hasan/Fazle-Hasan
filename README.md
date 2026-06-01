@@ -2,7 +2,7 @@
   
 # Hi there, I'm Fazle Hasan! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Associate+Data+Scientist+%40+Jio+Platforms;Generative+AI+%26+LLM+Enthusiast;Deep+Learning+Practitioner;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI/ML+Engineer+%40+Jio+Platforms;Generative+AI+%26+LLM+Enthusiast;Deep+Learning+Practitioner;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/fazle-hasan-24a9421a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -23,7 +23,7 @@
 class FazleHasan:
     def __init__(self):
         self.name = "Fazle Hasan"
-        self.role = "Associate Data Scientist"
+        self.role = "AI/ML Engineer"
         self.company = "Jio Platforms Limited (JPL)"
         self.location = "India 🇮🇳"
         self.languages = ["Python", "C", "SQL"]
